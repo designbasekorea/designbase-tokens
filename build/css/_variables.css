@@ -1,0 +1,70 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 19 Jun 2023 03:51:16 GMT
+ */
+
+:root {
+  --global-colors-brand-colors-primary: #004FFF;
+  --global-colors-brand-colors-secondary: #6EB6FF;
+  --global-colors-semantic-colors-success: #27C28A;
+  --global-colors-semantic-colors-info: #4982FF;
+  --global-colors-semantic-colors-warning: #FFAB00;
+  --global-colors-semantic-colors-error: #E65C5C;
+  --global-colors-neutral-colors-black: #000000;
+  --global-colors-neutral-colors-gray10: #17191A;
+  --global-colors-neutral-colors-gray20: #2E3133;
+  --global-colors-neutral-colors-gray30: #454A4D;
+  --global-colors-neutral-colors-gray40: #5C6366;
+  --global-colors-neutral-colors-gray50: #737B80;
+  --global-colors-neutral-colors-gray60: #8A9499;
+  --global-colors-neutral-colors-gray70: #A1ADB2;
+  --global-colors-neutral-colors-gray80: #B8C5CC;
+  --global-colors-neutral-colors-gray90: #E5E9EE;
+  --global-colors-neutral-colors-gray95: #E6EEF2;
+  --global-colors-neutral-colors-gray99: #F9FAFB;
+  --global-colors-neutral-colors-white: #FFFFFF;
+  --global-spacing-sm: 8px;
+  --global-spacing-m: 16px;
+  --global-spacing-lg: 24px;
+  --global-spacing-xl: 40px;
+  --global-spacing-xxl: 80px;
+  --global-sizing-sm: 32px;
+  --global-sizing-m: 48px;
+  --global-sizing-l: 64px;
+  --global-sizing-xl: 160px;
+  --global-radius-s: 4px;
+  --global-radius-m: 8px;
+  --global-radius-l: 16px;
+  --global-radius-xl: 24px;
+  --global-bw-1: 1px;
+  --global-bw-2: 2px;
+  --global-mainfont: Pretendard;
+  --global-fw-l: Light;
+  --global-fw-r: Regular;
+  --global-fw-b: Bold;
+  --global-lh-none: 100%;
+  --global-lh-s: 125%;
+  --global-lh-m: 150%;
+  --global-lh-l: 180%;
+  --global-lh-xl: 200%;
+  --global-fs-xs: 12px;
+  --global-fs-sm: 14px;
+  --global-fs-m: 16px;
+  --global-fs-l: 18px;
+  --global-fs-h6: 24px;
+  --global-fs-h5: 32px;
+  --global-fs-h4: 36px;
+  --global-fs-h3: 48px;
+  --global-fs-h2: 60px;
+  --global-fs-h1: 72px;
+  --global-o-1: 0.1;
+  --global-o-2: 0.2;
+  --global-o-3: 0.3;
+  --global-o-4: 0.4;
+  --global-o-5: 0.5;
+  --global-o-6: 0.6;
+  --global-o-7: 0.7;
+  --global-o-8: 0.8;
+  --global-o-9: 0.9;
+  --global-spacing-0: 0;
+}

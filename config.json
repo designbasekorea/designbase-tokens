@@ -13,6 +13,16 @@
                 }
             ]
         },
+        "css": {
+            "transformGroup": "css",
+            "buildPath": "build/css/",
+            "files": [
+                {
+                    "destination": "_variables.css",
+                    "format": "css/variables"
+                }
+            ]
+        },
         "android": {
             "transformGroup": "android",
             "buildPath": "build/android/",

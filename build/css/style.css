@@ -1,0 +1,8 @@
+button{
+  font-size:var(--global-fs-l) ;
+  padding:var(--global-spacing-m);
+  border-radius: var(--global-radius-l);
+  background-color: var(--global-colors-brand-colors-primary);
+  color:var( --global-colors-neutral-colors-white);
+  border:none;
+}
